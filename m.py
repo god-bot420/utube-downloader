@@ -1,6 +1,5 @@
 from pytube import YouTube
-#where to save
-DOWNLOAD_PATH = "C:/Users/rohan/3D Objects/youtube downloader/videos/new" #to_do
+DOWNLOAD_PATH = "C:/Users/r/3D Objects/youtube downloader/videos/new" #to_do
 #List of links of the video to be downloaded
 video_link=["https://www.youtube.com/watch?v=hwNWx1GTSKo"]
 for i in video_link:
