@@ -34,7 +34,7 @@ cd utube-downloader
 Run the Application
 Execute the Python script to start the application:
 ```bash
-python a.py
+python ad.py
 ```
 Usage
 Enter YouTube Video URL: Start by copying the URL of the YouTube video you wish to download and pasting it into the "YouTube link" field.
